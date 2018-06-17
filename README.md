@@ -1,5 +1,5 @@
 ## Final Project optimization
-_A project from Udacity's nanodegree._
+A project from Udacity's nanodegree course.
 
 ### Technologies used:
 - HTML
@@ -13,4 +13,7 @@ _A project from Udacity's nanodegree._
 
 2. Do some changes for your practice & check the responsiveness.
 
-#### *Happy Coding !*
+### License:
+- MIT
+
+#### Happy Coding !
