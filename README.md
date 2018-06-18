@@ -1,5 +1,5 @@
-## Final Project optimization [🔗](https://adsingh14.github.io/Final-Project-Updates/)
-A project from Udacity's nanodegree course.
+## Final Project Updates [🔗](https://adsingh14.github.io/Final-Project-Updates/)
+Task given by Udacity's nanodegree course.
 
 ### Technologies used:
 - HTML
